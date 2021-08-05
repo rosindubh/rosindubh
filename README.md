@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - I am hoping to secure a career in something backend as opposed to frontend
 - I like working in the terminal as opposed to GUI's
 - my favorite OS is Linux
-inline style:
-![Harwell DeKatron Computer](https://github.com/rosindubh/images/blob/main/HarwellDekatronComputer.jpg "Harwell Dekatron")
+- ![Harwell DeKatron Computer](https://github.com/rosindubh/images/blob/main/HarwellDekatronComputer.jpg "Harwell Dekatron")
