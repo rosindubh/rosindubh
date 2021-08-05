@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - I like working in the terminal as opposed to GUI's
 - my favorite OS is Linux
 - ![Harwell DeKatron Computer](https://github.com/rosindubh/images/blob/main/HarwellDekatronComputer.jpg "Harwell Dekatron")
+- THE OLDEST WORKING PROGRAMMABLE COMPUTER
