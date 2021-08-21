@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - Hi I'm Phil, I'm a junior software developer
 - I'm am currently doing the CodeNation master course
-- I am learning Javascript, HTML, CSS, Flexbox and Git currently
+- I am studying Javascript, HTML, CSS, Flexbox, Node JS, NPM, React and Git currently
 - I am hoping to secure a career in something backend as opposed to frontend
 - I like working in the terminal as opposed to GUI's
 - my favorite OS is Linux
